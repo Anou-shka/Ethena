@@ -1,0 +1,8 @@
+id,risk,likelihood,impact,score
+R1,Funding-rate risk,4,3,12
+R2,Counterparty & custody,2,5,10
+R3,Peg / redemption run,2,4,8
+R4,Liquidity,3,3,9
+R5,Smart contract,2,4,8
+R6,Regulatory,4,3,12
+R7,Token supply (ENA),3,2,6
