@@ -1,0 +1,6 @@
+group,share_pct,tokens_bn,vesting_terms
+Core Contributors,30,4.50,"1-year cliff from TGE (2 Apr 2024) for 25%, remainder vests monthly over 3 years"
+Investors,25,3.75,"Same as core contributors; remaining schedule accelerated into a single 5 Oct 2026 release"
+Ecosystem Development,28,4.20,"Partly unlocked at TGE (incl. airdrops); remainder released at Foundation discretion"
+Foundation,15,2.25,"Partly unlocked at TGE; remainder released at Foundation discretion"
+Binance Launchpool,2,0.30,"Fully unlocked at TGE"

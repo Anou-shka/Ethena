@@ -1,0 +1,26 @@
+date,usde_supply_usd_bn,event,source,confidence
+2024-02-19,0.00,Public mainnet launch,Ethena docs / launch announcement,high
+2024-03-31,1.40,Shard campaign drives early growth,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2024-04-30,2.30,ENA TGE (2 Apr) and Sats campaign,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2024-05-31,3.00,Funding stays elevated,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2024-07-05,3.61,2024 peak,Unchained / DL News (Aug 2024),high
+2024-08-20,3.09,Funding compresses; first contraction,Unchained / DL News (Aug 2024),high
+2024-09-30,2.50,2024 trough,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2024-11-30,3.90,Post-election funding spike,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2024-12-31,5.90,Funding >20% annualised,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-02-28,6.20,Early-2025 high,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-04-30,4.80,Risk-off; funding near zero,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-06-30,5.30,Stabilisation,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-07-31,8.50,ETH rally; funding rebounds,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-08-31,12.00,Rapid expansion,Approximate month-end level (not re-verified; replace with Dune Q01 output),low
+2025-09-30,14.40,Approaching all-time high,Yahoo Finance / CoinGecko,high
+2025-10-04,14.82,All-time high,stablecoininsider (Sep 2026 review),high
+2025-10-12,12.60,10 Oct liquidation cascade; Binance-only depeg to ~$0.65,21Shares research,high
+2025-11-01,9.30,Post-crash deleveraging,Yahoo Finance / CoinGecko,high
+2025-11-30,7.10,-24% in November,Yahoo Finance / CoinGecko,high
+2025-12-23,6.40,~$8.3B net outflows since 10 Oct,Cointelegraph / CoinMarketCap,high
+2026-03-16,5.92,Q1 2026,stablecoininsider Q1 2026 report,high
+2026-06-11,4.50,Yield- and incentive-sensitive demand,Analysis article (Jun 2026),medium
+2026-08-30,4.07,Pre fee-switch vote (conflicts with ~$4.6B elsewhere),KuCoin News,low
+2026-09-28,4.95,Basis trade returns; recovery into quarter end,stablecoininsider (Sep 2026 review),high
+2026-10-12,4.76,Backing 1:1 per Aave review,Ethena governance update / Aave governance,high

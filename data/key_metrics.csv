@@ -1,0 +1,15 @@
+metric,value,as_of,source,confidence
+USDe supply,$4.76B,2026-10-12,Ethena Q3 2026 governance update / Aave governance review,high
+USDe all-time high supply,$14.82B,2025-10-04,stablecoininsider; CoinMarketCap cites ~$14.97B,high
+Drawdown from ATH,-68%,2026-10-12,Derived,high
+sUSDe staked USDe (start Q3 2026),$1.67B,2026-07-01,Ethena Q3 2026 governance update,high
+sUSDe staked USDe (end Q3 2026),$1.26B,2026-09-30,Ethena Q3 2026 governance update,high
+sUSDe 7-day APY (start Q3 2026),3.8%,2026-07-01,Ethena Q3 2026 governance update,high
+sUSDe 7-day APY (end Q3 2026),5.0%,2026-09-30,Ethena Q3 2026 governance update,high
+Reserve fund,~$61M,2026-03,Secondary (eco.com); not confirmed in Ethena docs,low
+ENA price,$0.20-0.21,2026-10-14,OKX / Bybit / Coinbase,high
+ENA market cap,~$2.8B,2026-10-14,OKX (implies ~13.4B circulating),medium
+ENA total supply,15.0B,fixed,Ethena docs,high
+ENA released per vesting schedule,10.65B (71.0%),2026-10-07,Tokenomist,medium
+ENA still locked per schedule,2.325B (15.5%),2026-10-07,Tokenomist,medium
+Total stablecoin market,$303B,2026-10-15,Stablecoin Beat / CoinGecko,high

@@ -1,0 +1,5 @@
+asset,issuer,mechanism,yield_to_holder,supply_usd_bn,main_risk,as_of
+USDT,Tether,Fiat-backed (T-bills; some BTC and gold),None (issuer keeps reserve yield),183.9,Issuer opacity and reserve composition; regulatory,2026-10-15
+USDC,Circle,Fiat-backed (cash and T-bills; regulated issuer),None natively (yield only via platforms),72.6,Banking/custody concentration; censorship and freeze risk,2026-10-15
+USDS / sUSDS,Sky (ex-MakerDAO),Overcollateralised crypto + RWA; governance-set Sky Savings Rate,~3.65-3.75% (SSR),9.5,Governance and collateral (RWA/PSM) concentration,2026-Q3
+USDe / sUSDe,Ethena,Synthetic dollar: spot collateral + short perps + stablecoin/RWA reserves,~5.0% (sUSDe 7d avg),4.76,Funding-rate regime; exchange/custody counterparty,2026-10-12
